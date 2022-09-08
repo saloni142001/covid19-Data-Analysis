@@ -1,0 +1,11 @@
+iso_code,location,infectedPercentage
+NZL,"New Zealand",19.7749
+MYS,Malaysia,8.4717
+JOR,Jordan,7.7624
+ESP,Spain,4.8180
+MUS,Mauritius,0.0923
+QAT,Qatar,0.0754
+BDI,Burundi,0.0035
+AFG,Afghanistan,0.0006
+NIC,Nicaragua,0.0002
+,,NULL
